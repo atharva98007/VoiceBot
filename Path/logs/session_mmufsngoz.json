@@ -1,0 +1,26 @@
+[
+    {
+        "role": "User",
+        "text": "हेलो हेलो"
+    },
+    {
+        "role": "Bot",
+        "text": "Namaste! Kaise help cheyagalanu aapko?"
+    },
+    {
+        "role": "User",
+        "text": "तुम्हारा नाम क्या है"
+    },
+    {
+        "role": "Bot",
+        "text": "Mera koi personal naam nahi hai. Nenu Sankar Group ki oka AI assistant ni. Meeku ela help cheyagalanu?"
+    },
+    {
+        "role": "User",
+        "text": "हेलो कितने बज रहे हैं"
+    },
+    {
+        "role": "Bot",
+        "text": "Ippudu **[Current Time in IST, e.g., sham 6 baje 30 minute]** ho rahe hain. Meeku emaina information kavala?"
+    }
+]

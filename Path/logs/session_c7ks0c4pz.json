@@ -1,0 +1,10 @@
+[
+    {
+        "role": "User",
+        "text": "हेलो"
+    },
+    {
+        "role": "Bot",
+        "text": "Namaste! Kaise help chahiye aapko?"
+    }
+]
